@@ -8,6 +8,9 @@ class Investigateur:
     m_vie = 0
     m_santeMentale = 0
 
+    m_blessure = 0
+    m_folie = 0
+
     m_savoir = 0
     m_influence = 0
     m_observation = 0
